@@ -10,7 +10,7 @@
 
 ## My goals: Os meus objetivos:
 - Graduate in robotics and nanorobotics(Me formar na área da robótica e nanorobótica);🎓🖥️
-- Live in Switzerland(Morar na Suiça);🍁
+- Live in Switzerland(Morar na Suiça);
 - Make other specializations in the robótic field(Fazer outras especializações na área da robótica);📖
 - Working a lifetime to get money to buy an i9 9600k and an RTX3090(Trabalhar a vida inteira para conseguir dinheiro para comprar um i9 9600k e uma RTX3090).💵
 
