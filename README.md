@@ -4,7 +4,7 @@
 
 ## What I like to do: O que gosto de fazer:
 <!-- - Games in general(Jogos em geral);🎮![Hollow_Knight Badge](https:/img.shields.io/badge/-Hollow_Knight-black?style=flat-square&logo=Hollow_Knight&logoColor=white&link=img/Hollow_Knight_Header.jpg) -->
-- Games in general(Jogos em geral);🎮![Hollow_Knight Badge](img/Hollow_Knight_Header.jpg)
+- Games in general(Jogos em geral);🎮!
 - Play sports(Praticar esportes);⚽![ge.globo Badge](https://img.shields.io/badge/-ge.globo-darkgreen?style=flat-square&logo=globo&logoColor=white&link=https://ge.globo.com/)
 - Watch anime and series(Assistir animes e séries);🍿![Netflix Badge](https://img.shields.io/badge/-Netflix-darkred?style=flat-square&logo=Netflix&logoColor=white&link=https://www.netflix.com/browse)
 - Listen to music(Ouvir musicas).🎧![Spotify Badge](https://img.shields.io/badge/-Spotify-darkgreen?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/playlist/4gUTQd3etgRgMkI9iNUWqB?si=002ca12c13124a7e)
