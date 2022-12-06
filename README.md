@@ -2,6 +2,8 @@
 - My name is Davi Guimarães Possa, I'm 15 years old and I'm currently studying Informatica for Internet at CTISM.🖥️
 - Meu nome é Davi Guimarães Possa, tenho 15 anos e atualmente estudo Informática para Internet no CTISM.🖥️
 
+TRABALHO FABÃO https://gist.github.com/valdiney/97f0e9b938a3b31af854
+
 ## What I like to do: O que gosto de fazer:
 <!-- - Games in general(Jogos em geral);🎮![Hollow_Knight Badge](https:/img.shields.io/badge/-Hollow_Knight-black?style=flat-square&logo=Hollow_Knight&logoColor=white&link=img/Hollow_Knight_Header.jpg) -->
 - Games in general(Jogos em geral);🎮!
