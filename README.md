@@ -2,8 +2,6 @@
 - My name is Davi Guimarães Possa, I'm 16 years old and I'm currently studying Informatica for Internet at CTISM.🖥️
 - Meu nome é Davi Guimarães Possa, tenho 16 anos e atualmente estudo Informática para Internet no CTISM.🖥️
 
-TRABALHO FABÃO https://gist.github.com/valdiney/97f0e9b938a3b31af854
-
 ## What I like to do: O que gosto de fazer:
 - Games in general(Jogos em geral);🎮!
 - Play sports(Praticar esportes);⚽![ge.globo Badge](https://img.shields.io/badge/-ge.globo-darkgreen?style=flat-square&logo=globo&logoColor=white&link=https://ge.globo.com/)
