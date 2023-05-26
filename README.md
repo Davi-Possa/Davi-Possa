@@ -6,7 +6,7 @@
 - Games in general(Jogos em geral);🎮!
 - Play sports(Praticar esportes);⚽![ge.globo Badge](https://img.shields.io/badge/-ge.globo-darkgreen?style=flat-square&logo=globo&logoColor=white&link=https://ge.globo.com/)
 - Watch anime and series(Assistir animes e séries);🍿![Netflix Badge](https://img.shields.io/badge/-Netflix-darkred?style=flat-square&logo=Netflix&logoColor=white&link=https://www.netflix.com/browse)
-- Listen to music(Ouvir musicas).🎧![Spotify Badge](https://img.shields.io/badge/-Spotify-darkgreen?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/playlist/4gUTQd3etgRgMkI9iNUWqB?si=002ca12c13124a7e)
+- Listen to music(Ouvir musicas).🎧![Spotify Badge](https://img.shields.io/badge/-Spotify-darkgreen?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/playlist/24E9dTBzpFMtbOz8SW2BhM?si=2bb9885199904d0a)
 
 ## My goals: Os meus objetivos:
 - Graduate in robotics and nanorobotics(Me formar na área da robótica e nanorobótica);🎓🖥️
